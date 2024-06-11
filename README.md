@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahar009" alt="sahar009" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akinwumisehinde.onrender.com](https://akinwumisehinde.onrender.com)
+- 👨‍💻 Some of my projects are available at [https://akinwumisehinde.onrender.com](https://akinwumisehinde.onrender.com)
 
 - 📝 I Tutor at AppClick ICT [https://appclick.ng/](https://appclick.ng/)
 

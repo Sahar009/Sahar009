@@ -7,8 +7,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://akinwumisehinde.onrender.com](https://akinwumisehinde.onrender.com)
 
-- 📝 I Tutor at AppClick ICT [https://appclick.ng/](https://appclick.ng/)
-
 - 📫 How to reach me **akinwumisehinde@gmail.com**
 
 - ⚡ Fun fact **They call me the Baddest dev**
